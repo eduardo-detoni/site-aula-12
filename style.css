@@ -1,0 +1,23 @@
+.cabecalho {
+    background-color: #ff2002;
+    color: rgb(0, 255, 179);
+    display: flex;
+    justify-content: space-around;
+    padding: 30px 0;
+}
+
+.cabecalho-imagem {
+    width: 12%;
+}
+
+.cabecalho-lista-item {
+    display: inline-block;
+    margin: 0 30px;
+    padding: 10px 0;
+    font-size: 18px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
